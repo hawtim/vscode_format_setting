@@ -1,6 +1,6 @@
 // prettier.config.js or .prettierrc.js
 module.exports = {
-  trailingComma: "es5", // 如果使用 all 选项需要 node 8
+  trailingComma: "none", // 如果使用 all 选项需要 node 8
   tabWidth: 2,
   semi: false,
   singleQuote: true,
